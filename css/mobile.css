@@ -45,7 +45,7 @@
 
 /* ======================= question ====================== */
 .question {
-  margin-top: 24px;
+  margin: 24px 0;
 }
 .question-h2 {
   font-size: 24px;
@@ -67,14 +67,7 @@
   line-height: 1.5;
 }
 .question-figure {
-  width: 100%;
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
-}
-.question-img {
-  width: 60%;
-  height: auto;
+  display: none;
 }
 
 
