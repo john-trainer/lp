@@ -1,0 +1,50 @@
+/* ===================== header =================== */
+
+
+/* ==================== w-80 ===================== */
+.w-80 {
+  width: 90%;
+  padding: 32px 0;
+}
+.question-only {
+  padding: 0;
+}
+
+/* ================== question ================== */
+.question {
+  margin-top: 32px;
+}
+.question-h2 {
+  font-size: 32px;
+}
+.question-p {
+  font-size: 24px;
+}
+
+
+/* =================== solution ===================== */
+
+
+/* =================== title ======================== */
+
+
+/* ================ useable, reason ================== */
+.reason-h2 {
+  text-align: center;
+}
+.tablet-br {
+  display: block;
+}
+.pc-br {
+  display: none;
+}
+.useable-p,
+.reason-p {
+  text-align: left;
+  padding: 0 8px 0 16px;
+}
+
+/* ================ plan =================== */
+.plan-inner {
+  width: 45%;
+}

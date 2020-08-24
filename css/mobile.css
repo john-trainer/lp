@@ -1,0 +1,143 @@
+/* ===================== header ======================= */
+.first-box-wrapper {
+  width: 96%;
+  margin: 0 auto;
+}
+.manabumura {
+  font-size: 20px;
+}
+.first-box-p {
+  font-size: 20px;
+}
+.first-box-p::before,
+.first-box-p::after {
+  display: none;
+}
+.small {
+  font-size: 14px;
+}
+.middle {
+  font-size: 32px;
+}
+.large {
+  font-size: 50px;
+}
+.movie-box p {
+  font-size: 12px;
+}
+.youtube-channel {
+  font-size: 18px;
+  margin: 8px auto 0;
+}
+.youtube-url {
+  padding: 10px 48px;
+}
+
+
+/* ================= w-80 ====================== */
+.w-80 {
+  width: 100%;
+  padding: 24px 0;
+}
+.question-only {
+  padding: 0;
+}
+
+/* ======================= question ====================== */
+.question {
+  margin-top: 24px;
+}
+.question-h2 {
+  font-size: 24px;
+}
+.mobile-br {
+  display: block;
+}
+.question-text {
+  margin-top: 16px;
+}
+.question-inner {
+  display: block;
+}
+.question-text {
+  width: 100%;
+}
+.question-p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.question-figure {
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+.question-img {
+  width: 60%;
+  height: auto;
+}
+
+
+
+
+/* ==================== solution ====================== */
+.fas {
+  font-size: 32px;
+}
+.solution-inner p {
+  font-size: 20px;
+  line-height: 1.5;
+  padding: 8px;
+}
+.solution-span {
+  font-size: 28px;
+}
+
+/* ======================== title ======================= */
+.title {
+  font-size: 28px;
+}
+.title::before,
+.title::after {
+  display: none;
+}
+
+/* ================ useable, reason ================== */
+.useable-h3,
+.reason-h3 {
+  font-size: 18px;
+}
+.useable-p,
+.reason-p {
+  font-size: 14px;
+  letter-spacing: .06em;
+}
+
+/* ===================== plan ====================== */
+.plan-wrapper {
+  flex-wrap: wrap;
+} 
+.plan-inner {
+  width: 100%;
+  margin: 20px 0;
+}
+
+/* =================== entry ======================== */
+.entry-p {
+  font-size: 14px;
+  margin: 32px 0;
+}
+.not-mobile-br {
+  display: none;
+}
+.last-p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.last-p span:nth-of-type(1) {
+  font-size: 18px;
+}
+.entry-url {
+  padding: 16px 32px;
+  font-size: 14px;
+}
